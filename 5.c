@@ -1,6 +1,6 @@
+// Saket Kumar -2212033
+
 #include <stdio.h>
-
-
 int powr(unsigned int x, unsigned int y)
 {
 	if (y == 0)
